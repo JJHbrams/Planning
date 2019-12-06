@@ -1,5 +1,5 @@
 # Planning
-CS572 path planning module
+CS572 path planning and lqr control module
 # CS572 planning
 A source code folder
 This source code is written based on ROS environment with "OMPL" and "Moveit!"  
